@@ -1,0 +1,2 @@
+Flask==2.3.2
+zcatalyst-sdk==0.0.2
